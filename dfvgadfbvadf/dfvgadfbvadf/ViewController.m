@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"你好啊小帅哥");
+    NSLog(@"牛逼啊通知呢么");
+    NSLog(@"你好啊小帅哥");
+    NSLog(@"牛逼啊通知呢么");
+    NSLog(@"你好啊小帅哥");
+    NSLog(@"牛逼啊通知呢么");
 }
 
 
